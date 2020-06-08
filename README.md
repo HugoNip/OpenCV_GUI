@@ -22,12 +22,12 @@ make
 The following applications are generated.
 
 ```
-./sample1
-./sample2
-./sample3
-./sample4
-./sample5
-./sample6
+./build/sample1
+./build/sample2
+./build/sample3
+./build/sample4
+./build/sample5
+./build/sample6
 ```
 
 Sample 1. Basic GUI
